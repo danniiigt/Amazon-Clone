@@ -4,7 +4,7 @@ body {
 .bottomShadow {
   -webkit-mask-image: linear-gradient(
     180deg,
-    rgb(255, 255, 255) 85%,
+    rgb(255, 255, 255) 80%,
     transparent
   );
 }
